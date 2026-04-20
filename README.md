@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 Founder & Lead Developer at **[Joybyte Games](https://github.com/MustiCodes123)**
+- 🏢 Founder & Lead Developer at **[Joybyte Games]((https://www.linkedin.com/company/joybyte-games/))**
 - 🚀 Published **15+ games** on **Google Play, App Store, and Steam**
 - 🥽 Building **VR experiences** for **Meta Quest 3** — Horror Carnival VR & Table Tennis VR
 - 🎯 Specialized in **Tower Defense, Simulation, Card Games, Runners & Strategy**
 - 🎨 Skilled in **UI/UX, 3D Modeling (Blender), and full-cycle Game Design**
-- 💼 Delivered **150+ projects** for clients worldwide on Fiverr & Upwork
+- 💼 Delivered **150+ projects** for clients worldwide on Fiverr, Upwork & LinkedIn
 - 💬 Ask me about **Unity, C#, Unreal Engine, C++, Firebase, and VR**
 - ⚡ Fun fact: I handle everything solo — design, code, backend, and publishing!
 
