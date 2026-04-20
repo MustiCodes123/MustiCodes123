@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustaqim Afzal</h1>
-<h3 align="center">⚔️ A passionate Game Developer from Pakistan — Crafting Worlds, One Build at a Time ⚔️</h3>
+<h3 align="center">🎮 Game Developer from Pakistan | Unity · Unreal · VR | Shipped 15+ Games on Google Play, App Store & Steam</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MustiCodes123.MustiCodes123" alt="visitors" />
@@ -9,34 +9,84 @@
 
 ## 🧑‍💻 About Me
 
-- 🔨 Currently building games with **Unity & Unreal Engine**
-- 🎯 Specialized in **Tower Defense, Simulation & Strategy Games**
-- 🎨 Skilled in **UI/UX, 3D Modeling (Blender), and Game Design**
-- 💬 Ask me about **Unity, C#, Unreal Engine, C++, and Firebase**
-- ⚡ Fun fact: I ship complete games solo — design, code, and publishing!
+- 🏢 Founder & Lead Developer at **[Joybyte Games](https://github.com/MustiCodes123)**
+- 🚀 Published **15+ games** on **Google Play, App Store, and Steam**
+- 🥽 Building **VR experiences** for **Meta Quest 3** — Horror Carnival VR & Table Tennis VR
+- 🎯 Specialized in **Tower Defense, Simulation, Card Games, Runners & Strategy**
+- 🎨 Skilled in **UI/UX, 3D Modeling (Blender), and full-cycle Game Design**
+- 💼 Delivered **150+ projects** for clients worldwide on Fiverr & Upwork
+- 💬 Ask me about **Unity, C#, Unreal Engine, C++, Firebase, and VR**
+- ⚡ Fun fact: I handle everything solo — design, code, backend, and publishing!
 
 ---
 
 ## 🚀 Published Games
 
-![Platform](https://img.shields.io/badge/Engine-Unity-black?style=flat&logo=unity)
-![Platform](https://img.shields.io/badge/Engine-Unreal-purple?style=flat&logo=unrealengine)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Steam-blue?style=flat)
-
-Here are some of the games I've developed and published:
+![Unity](https://img.shields.io/badge/Engine-Unity-black?style=flat&logo=unity)
+![Unreal](https://img.shields.io/badge/Engine-Unreal-purple?style=flat&logo=unrealengine)
+![Platforms](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Steam%20%7C%20Meta%20Quest-blue?style=flat)
 
 ### 🏰 Tower Defense & Strategy
 
 | Game | Platforms |
 |------|-----------|
-| **Hero Haven TD** | [![Google Play](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/%20IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) [![Steam](https://img.shields.io/badge/PC-STEAM-blue?style=flat&logo=steam)](https://store.steampowered.com) |
-| **Noir Tycoon** | [![Steam](https://img.shields.io/badge/PC-STEAM-blue?style=flat&logo=steam)](https://store.steampowered.com) |
+| **Hero Haven TD** | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) [![Steam](https://img.shields.io/badge/PC-STEAM-1b2838?style=flat&logo=steam)](https://store.steampowered.com) |
+| **Grave Danger** | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
 
-### 🏠 Simulation
+### 🌍 Multiplayer Open World
 
 | Game | Platforms |
 |------|-----------|
-| **Apartment Empire** | [![Google Play](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/%20IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+| **Hand Of God** | [![Steam](https://img.shields.io/badge/PC-STEAM-1b2838?style=flat&logo=steam)](https://store.steampowered.com) |
+
+### 🏙️ Tycoon & Simulation
+
+| Game | Platforms |
+|------|-----------|
+| **Noir Tycoon** | [![Steam](https://img.shields.io/badge/PC-STEAM-1b2838?style=flat&logo=steam)](https://store.steampowered.com) |
+| **Apartment Empire** | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+| **Gas Station Tycoon** | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+| **Restaurant Tycoon** | [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+
+### 🃏 Card Games
+
+| Game | Platforms |
+|------|-----------|
+| **KONA Card Game** | [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+| **Plyzrx (UNO-style)** | [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+
+### ♟️ Board Games
+
+| Game | Platforms |
+|------|-----------|
+| **Backgammon** | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+
+### 🧩 Puzzle & Match
+
+| Game | Description | Platforms |
+|------|-------------|-----------|
+| **Rebus Rumble** | Match-3 puzzle game | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+| **Gross Ball Sort** | Sort colored balls into tubes | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+
+### 🏃 Runner Games
+
+| Game | Description | Platforms |
+|------|-------------|-----------|
+| **CHOMP** | Endless runner game | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+
+### 🎯 Casual & Arcade
+
+| Game | Description | Platforms |
+|------|-------------|-----------|
+| **Fruit Frenzy** | Fruit slicing action game | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) |
+| **Zoomies** | Trivia — guess from a zoomed image | [![Play Store](https://img.shields.io/badge/▶%20ANDROID-PLAY%20STORE-green?style=flat)](https://play.google.com) [![App Store](https://img.shields.io/badge/IOS-APP%20STORE-black?style=flat&logo=apple)](https://apps.apple.com) |
+
+### 🥽 VR (Meta Quest 3)
+
+| Game | Platform |
+|------|----------|
+| **Horror Carnival VR** | ![Meta Quest](https://img.shields.io/badge/META%20QUEST%203-000000?style=flat&logo=meta) |
+| **Table Tennis VR** | ![Meta Quest](https://img.shields.io/badge/META%20QUEST%203-000000?style=flat&logo=meta) |
 
 ---
 
